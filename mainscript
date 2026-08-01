@@ -1,4 +1,4 @@
 local localPlayer = game.Players.LocalPlayer
 
 
-localPlayer:Kick("Tebrikler bist")
+localPlayer:Kick("maintance")
